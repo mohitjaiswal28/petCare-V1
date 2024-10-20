@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # petCare-V1
 Tech-forward pet care platform utilizing React.js, Node.js, Express.js, MongoDB Atlas.
-=======
+
 # Welcome to "petCare" 🚀
 
 ## Overview
@@ -37,4 +36,3 @@ Exciting news! The "petCare" website is live!
 For inquiries, please reach out to:
 
 Mohit Jaiswal: mohitjaiswal2883@gmail.com ✉️
->>>>>>> a6638ea (petcare/reactjs/version1)
